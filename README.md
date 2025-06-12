@@ -1,5 +1,5 @@
 # Revealing-quantum-operator-scrambling-via-measuring-Holevo-information-on-digital-quantum-simulators
-The main code and data are available on Revealing quantum operator scrambling via measuring Holevo information on digital quantum simulators.
+The main code and data are available on Revealing quantum operator scrambling via measuring Holevo information on digital quantum simulators https://doi.org/10.48550/arXiv.2503.00918.
 results：Records the image data in the article.Recording _of_subcircuit Corresponding to Figure 2.noiseless_results Corresponding to Figure 3,4,5.mitigation_error_resultsCorresponding to Figure 6.
 venv:The complete environment used by the code.
 Sample_random_samples and plot_trace_distance :The trace distance between the obtained mixed states and the maximum mixed state is plotted by sampling the order in which the quantum gate operations are recorded at different system sizes.
