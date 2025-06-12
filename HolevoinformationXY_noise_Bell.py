@@ -212,7 +212,7 @@ def write_results(base_dir, deltaT, results, Tmax, NL, hz, p):
                 file.write(f"{deltaT * (i + 1)},{holevo_value}\n")
         print(f"已写入文件: {filename}")
 def main():
-    NL = 5
+    NL = 7
     J = 1
     hx = 1
     hz = 0.0
